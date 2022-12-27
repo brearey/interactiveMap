@@ -1,8 +1,6 @@
 # Интерактивная карта для проекта "Истоки образования"
 ## _МБНОУ Октемский НОЦ_
 
-[![N|Solid](https://hu-onoc.obr.sakha.gov.ru/uploads/1335/thumbs/links/large_32b8bcc181683ec77c70f229cf57f73d408347d8.png)](https://hu-onoc.obr.sakha.gov.ru/)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://xn--h1aafpog.xn--90ahbflhjgobv0ae.xn--p1ai/)
 
 Этапы разработки интерактивной карты:
