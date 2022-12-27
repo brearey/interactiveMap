@@ -32,8 +32,6 @@
 
 MIT
 
-**Free Software, Hell Yeah!**
-
 [HTML]: <https://www.w3schools.com/html/>
 [CSS]: <https://www.w3schools.com/css/>
 [JavaScript]: <https://www.javascript.com/>
